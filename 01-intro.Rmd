@@ -8,4 +8,14 @@ Test with Lohitzune and Ivan
 
 ## Subsection
 
+Below some examples on basic editing. Note that the figures should be placed in the images folder
+
+![Fig caption](images/AZTI.png)
+
+*italics example*
+
+**bold example**
+
+[azti web page](www.azti.es)
+
 ### Subsubsection
