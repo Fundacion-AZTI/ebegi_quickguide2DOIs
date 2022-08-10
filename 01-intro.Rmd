@@ -2,6 +2,4 @@
 
 The present e-book is a protocol generated under e-BEGI projecto to guide researchers and technicians from AZTI on how to generate, process, publish and disseminate their research outputs following the FAIR principles and how to assign DOIs to convert them in digital persistent research objects.
 
-“Good data management is not a goal in itself, but rather is the key conduit leading to knowledge discovery and innovation, and to subsequent data and knowledge integration and reuse by the community after the data publication process.”
-
-Wilkinson et al, 2016
+“Good data management is not a goal in itself, but rather is the key conduit leading to knowledge discovery and innovation, and to subsequent data and knowledge integration and reuse by the community after the data publication process.” (Wilkinson et al., 2016)

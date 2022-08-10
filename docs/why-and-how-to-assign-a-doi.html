@@ -20,7 +20,7 @@
   <meta name="twitter:description" content="This is a short tutorial about …" />
   
 
-<meta name="author" content="Lohitzune Solabarrieta, Ivan Manso, Andrea del Campo, Anna Rubio (AZTI)" />
+<meta name="author" content="Authors: Lohitzune Solabarrieta, Ivan Manso, Andrea del Campo, Anna Rubio (AZTI)" />
 
 
 <meta name="date" content="2022-08-10" />
@@ -81,8 +81,8 @@
 <li class="chapter" data-level="5" data-path="assign-a-doi-to-an-oceanographic-campaign.html"><a href="assign-a-doi-to-an-oceanographic-campaign.html"><i class="fa fa-check"></i><b>5</b> Assign a Doi to an oceanographic campaign</a></li>
 <li class="chapter" data-level="6" data-path="assign-a-doi-to-a-dataset.html"><a href="assign-a-doi-to-a-dataset.html"><i class="fa fa-check"></i><b>6</b> Assign a doi to a dataset</a></li>
 <li class="chapter" data-level="7" data-path="assign-a-doi-to-other-objects.html"><a href="assign-a-doi-to-other-objects.html"><i class="fa fa-check"></i><b>7</b> Assign a doi to other objects</a></li>
-<li class="chapter" data-level="" data-path="contacts.html"><a href="contacts.html"><i class="fa fa-check"></i>Contacts</a></li>
 <li class="chapter" data-level="" data-path="references.html"><a href="references.html"><i class="fa fa-check"></i>References</a></li>
+<li class="chapter" data-level="" data-path="contacts.html"><a href="contacts.html"><i class="fa fa-check"></i>Contacts</a></li>
 <li class="divider"></li>
 <li><a href="https://github.com/rstudio/bookdown" target="blank">Published with bookdown</a></li>
 
@@ -105,8 +105,8 @@
             <section class="normal" id="section-">
 <div id="why-and-how-to-assign-a-doi" class="section level1 hasAnchor" number="3">
 <h1><span class="header-section-number">Chapter 3</span> Why and how to assign a doi<a href="why-and-how-to-assign-a-doi.html#why-and-how-to-assign-a-doi" class="anchor-section" aria-label="Anchor link to header"></a></h1>
-<p><strong>WHY?</strong>
-It is recommended to provide a DOI name expressed as URL to your dataset or publication and add it to their metadata in order to make them more findable and to track the original authors and science behind. This will provide proper credits to the authors and a confident tracking record.</p>
+<p><strong>WHY?</strong></p>
+<p>It is recommended to provide a DOI name expressed as URL to your dataset or publication and add it to their metadata in order to make them more findable and to track the original authors and science behind. This will provide proper credits to the authors and a confident tracking record.</p>
 <p>The DOI system offers a unique set of functionalities:
 • Persistence, if material is moved, rearranged, or bookmarked.
 • Interoperability with other data from other sources.
@@ -114,11 +114,66 @@ It is recommended to provide a DOI name expressed as URL to your dataset or publ
 • Single management of data for multiple output formats (platform independence).
 • Class management of applications and services.
 • Dynamic updating of metadata, applications, and services.</p>
-<p><strong>HOW?</strong>
-The DOI system is implemented through a federation of Registration Agencies (RAs) that use policies and tools developed through the IDF, which safeguards (owns or licenses on behalf of registrants) all intellectual property rights relating to the DOI system. Many millions of DOI names have been assigned to date, through a growing federation of RA world-wide.</p>
+<p><strong>HOW?</strong></p>
+<p>The DOI system is implemented through a federation of Registration Agencies (RAs) that use policies and tools developed through the IDF, which safeguards (owns or licenses on behalf of registrants) all intellectual property rights relating to the DOI system. Many millions of DOI names have been assigned to date, through a growing federation of RA world-wide.</p>
 <p>DataCite is one of these RAs that provides DOIs specifically for research data. Although other RAs also assign DOI-s to datasets, DataCite is the most used for the DOI generation for datasets. DataCite’s global community includes data centres, libraries, government agencies, research universities, etc. Membership is open to all organizations that share the data sharing mission of DataCite. The organization should have its data in repositories to become a membership and consume the DOI service at DataCite. Other way to provide a DOI to your datasets, without becoming a member of a RA, is publishing them in established generic or community specific repositories like Zenodo, Pangaea, SEANOE or others. As mentioned before, at <a href="https://www.re3data.org/" class="uri">https://www.re3data.org/</a> you can find a useful and comprehensive registry to find and assess the most suitable repositories for your specific needs and communities. Examples of repositories where the user can assign a DOI without being member of any RA is shown in Table 3.</p>
-<p>Table 3. Examples of data repositories that generate DOI.
-To be created</p>
+<p>Table 3. Examples of data repositories that generate DOI.</p>
+<table>
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th align="left"></th>
+<th align="left">PANGAEA</th>
+<th align="left">SEANONE</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left">URL</td>
+<td align="left"><a href="https://www.pangaea.de/submit/" class="uri">https://www.pangaea.de/submit/</a></td>
+<td align="left"><a href="https://www.seanoe.org/html/publish-your-data.htm" class="uri">https://www.seanoe.org/html/publish-your-data.htm</a></td>
+</tr>
+<tr class="even">
+<td align="left">Doi assignation</td>
+<td align="left">Yes</td>
+<td align="left">Yes</td>
+</tr>
+<tr class="odd">
+<td align="left">Time of doi assignation</td>
+<td align="left">Weeks to months</td>
+<td align="left">24 hours</td>
+</tr>
+<tr class="even">
+<td align="left">Storage limit</td>
+<td align="left">100 GB/dataset</td>
+<td align="left">10 GB/dataset &amp; 10 days/month</td>
+</tr>
+<tr class="odd">
+<td align="left">Cost</td>
+<td align="left">Free</td>
+<td align="left">Free</td>
+</tr>
+<tr class="even">
+<td align="left">Recommended by</td>
+<td align="left">Nature (<a href="https://www.nature.com/sdata/policies/repositories" class="uri">https://www.nature.com/sdata/policies/repositories</a>)</td>
+<td align="left">SeaDataNet</td>
+</tr>
+<tr class="odd">
+<td align="left">(<a href="https://www.seanoe.org/html/sdata.htm?utm_source=hootsuite" class="uri">https://www.seanoe.org/html/sdata.htm?utm_source=hootsuite</a>)</td>
+<td align="left"></td>
+<td align="left"></td>
+</tr>
+</tbody>
+</table>
+<p>AZTI recommends assigning a DOI for:</p>
+<ul>
+<li><strong>Campaigns:</strong> through DataCite following the recommendation from section 5: “Assign a doi to your oceanographic campaign”</li>
+<li><strong>Datasets:</strong> through public repositories following the recommendation from section 6: “Assign a doi to your dataset”</li>
+</ul>
 
 </div>
             </section>

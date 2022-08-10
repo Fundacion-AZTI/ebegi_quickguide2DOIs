@@ -1,6 +1,6 @@
 --- 
 title: "e-Begi Quick Guide to DOIs"
-author: "Lohitzune Solabarrieta, Ivan Manso, Andrea del Campo, Anna Rubio (AZTI)"
+author: "Authors: Lohitzune Solabarrieta, Ivan Manso, Andrea del Campo, Anna Rubio (AZTI)"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book

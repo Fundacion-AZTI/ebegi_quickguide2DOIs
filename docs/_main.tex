@@ -71,12 +71,12 @@
 \urlstyle{same} % disable monospaced font for URLs
 \hypersetup{
   pdftitle={e-Begi Quick Guide to DOIs},
-  pdfauthor={Lohitzune Solabarrieta, Ivan Manso, Andrea del Campo, Anna Rubio (AZTI)},
+  pdfauthor={Authors: Lohitzune Solabarrieta, Ivan Manso, Andrea del Campo, Anna Rubio (AZTI)},
   hidelinks,
   pdfcreator={LaTeX via pandoc}}
 
 \title{e-Begi Quick Guide to DOIs}
-\author{Lohitzune Solabarrieta, Ivan Manso, Andrea del Campo, Anna Rubio (AZTI)}
+\author{Authors: Lohitzune Solabarrieta, Ivan Manso, Andrea del Campo, Anna Rubio (AZTI)}
 \date{2022-08-10}
 
 \begin{document}
@@ -101,9 +101,7 @@ The code is available in \href{https://github.com/Fundacion-AZTI/ebegi_quickguid
 
 The present e-book is a protocol generated under e-BEGI projecto to guide researchers and technicians from AZTI on how to generate, process, publish and disseminate their research outputs following the FAIR principles and how to assign DOIs to convert them in digital persistent research objects.
 
-``Good data management is not a goal in itself, but rather is the key conduit leading to knowledge discovery and innovation, and to subsequent data and knowledge integration and reuse by the community after the data publication process.''
-
-Wilkinson et al, 2016
+``Good data management is not a goal in itself, but rather is the key conduit leading to knowledge discovery and innovation, and to subsequent data and knowledge integration and reuse by the community after the data publication process.'' (Wilkinson et al., 2016)
 
 \hypertarget{what-is-a-doi}{%
 \chapter{What is a DOI}\label{what-is-a-doi}}
@@ -114,6 +112,7 @@ DOI is an acronym for `digital object identifier' (\url{https://www.doi.org/}). 
 \chapter{Why and how to assign a doi}\label{why-and-how-to-assign-a-doi}}
 
 \textbf{WHY?}
+
 It is recommended to provide a DOI name expressed as URL to your dataset or publication and add it to their metadata in order to make them more findable and to track the original authors and science behind. This will provide proper credits to the authors and a confident tracking record.
 
 The DOI system offers a unique set of functionalities:
@@ -125,12 +124,45 @@ The DOI system offers a unique set of functionalities:
 • Dynamic updating of metadata, applications, and services.
 
 \textbf{HOW?}
+
 The DOI system is implemented through a federation of Registration Agencies (RAs) that use policies and tools developed through the IDF, which safeguards (owns or licenses on behalf of registrants) all intellectual property rights relating to the DOI system. Many millions of DOI names have been assigned to date, through a growing federation of RA world-wide.
 
 DataCite is one of these RAs that provides DOIs specifically for research data. Although other RAs also assign DOI-s to datasets, DataCite is the most used for the DOI generation for datasets. DataCite's global community includes data centres, libraries, government agencies, research universities, etc. Membership is open to all organizations that share the data sharing mission of DataCite. The organization should have its data in repositories to become a membership and consume the DOI service at DataCite. Other way to provide a DOI to your datasets, without becoming a member of a RA, is publishing them in established generic or community specific repositories like Zenodo, Pangaea, SEANOE or others. As mentioned before, at \url{https://www.re3data.org/} you can find a useful and comprehensive registry to find and assess the most suitable repositories for your specific needs and communities. Examples of repositories where the user can assign a DOI without being member of any RA is shown in Table 3.
 
 Table 3. Examples of data repositories that generate DOI.
-To be created
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3333}}@{}}
+\toprule()
+\begin{minipage}[b]{\linewidth}\raggedright
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+PANGAEA
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+SEANONE
+\end{minipage} \\
+\midrule()
+\endhead
+URL & \url{https://www.pangaea.de/submit/} & \url{https://www.seanoe.org/html/publish-your-data.htm} \\
+Doi assignation & Yes & Yes \\
+Time of doi assignation & Weeks to months & 24 hours \\
+Storage limit & 100 GB/dataset & 10 GB/dataset \& 10 days/month \\
+Cost & Free & Free \\
+Recommended by & Nature (\url{https://www.nature.com/sdata/policies/repositories}) & SeaDataNet \\
+(\url{https://www.seanoe.org/html/sdata.htm?utm_source=hootsuite}) & & \\
+\bottomrule()
+\end{longtable}
+
+AZTI recommends assigning a DOI for:
+
+\begin{itemize}
+\tightlist
+\item
+  \textbf{Campaigns:} through DataCite following the recommendation from section 5: ``Assign a doi to your oceanographic campaign''
+\item
+  \textbf{Datasets:} through public repositories following the recommendation from section 6: ``Assign a doi to your dataset''
+\end{itemize}
 
 \hypertarget{fair-principles}{%
 \chapter{FAIR principles}\label{fair-principles}}
@@ -241,18 +273,18 @@ Under construction. Will come soon
 
 SORRY FOR THE INCONVENIENCES
 
-This GitHub ebook is generated by AZTI team:
-
-Lohitzune Solabarrieta \href{mailto:lsolabarrieta@azti.es}{\nolinkurl{lsolabarrieta@azti.es}}
-Ivan Manso \href{mailto:imanso@azti.es}{\nolinkurl{imanso@azti.es}}
-Andrea del Campo \href{mailto:adelcampo@azti.es}{\nolinkurl{adelcampo@azti.es}}
-Anna Rubio \href{mailto:arubio@azti.es}{\nolinkurl{arubio@azti.es}}
-
 Roche D. G., Kruuk L. E. B., Lanfear R. \& Binning S. A. Public Data Archiving in Ecology and Evolution: How Well Are We Doing? PLOS Biol. 13, e1002295 (2015).
 
 Tanhua T, Pouliquen S, Hausman J, O'Brien K, Bricher P, de Bruin T, Buck JJH, Burger EF, Carval T, Casey KS, Diggs S, Giorgetti A, Glaves H, Harscoat V, Kinkade D, Muelbert JH, Novellino A, Pfeil B, Pulsifer PL, Van de Putte A, Robinson E, Schaap D, Smirnov A, Smith N, Snowden D, Spears T, Stall S, Tacoma M, Thijsse P, Tronstad S, Vandenberghe T, Wengren M, Wyborn L and Zhao Z (2019) Ocean FAIR Data Services. Front. Mar.~Sci. 6:440. 'DOI: 10.3389/fmars.2019.00440.
 
 Wilkinson, M. D., Dumontier, M., Aalbersberg, I. J., Appleton, G., Axton, M., Baak, A., \ldots{} \& Mons, B. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Scientific data, 3(1), 1-9.
+
+This GitHub ebook is generated by AZTI team, for more information contact:
+
+Lohitzune Solabarrieta (\href{mailto:lsolabarrieta@azti.es}{\nolinkurl{lsolabarrieta@azti.es}}),
+Ivan Manso (\href{mailto:imanso@azti.es}{\nolinkurl{imanso@azti.es}}),
+Andrea del Campo (\href{mailto:adelcampo@azti.es}{\nolinkurl{adelcampo@azti.es}}),
+Anna Rubio (\href{mailto:arubio@azti.es}{\nolinkurl{arubio@azti.es}})
 
   \bibliography{references.bib,packages.bib}
 
