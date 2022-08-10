@@ -1,11 +1,7 @@
 introduction
-subsection
-subsubsection
 what-is-a-doi
 why-and-how-to-assign-a-doi
 fair-principles
 assign-a-doi-to-an-oceanographic-campaign
 assign-a-doi-to-a-dataset
 assign-a-doi-to-other-objects
-references
-contacts

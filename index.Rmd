@@ -1,6 +1,6 @@
 --- 
-title: "Add Title Here"
-author: "AZTI"
+title: "e-Begi Quick Guide to DOIs"
+author: "Lohitzune Solabarrieta, Ivan Manso, Andrea del Campo, Anna Rubio (AZTI)"
 date: "`r Sys.Date()`"
 site: bookdown::bookdown_site
 documentclass: book
@@ -13,7 +13,8 @@ github-repo: Fundacion-AZTI/ebegi_quickguide2DOIs
 
 # About {-}
 
-This is a short tutorial about...  
+The present e-book is a protocol generated under e-BEGI projecto to guide researchers and technicians from AZTI on how to generate, process, publish and disseminate their research outputs following the FAIR principles and how to assign DOIs to convert them in digital persistent research objects.
+ 
 
 Here to edit the book?
 
