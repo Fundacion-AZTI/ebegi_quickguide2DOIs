@@ -1,0 +1,20 @@
+# Why and how to assign a doi
+
+**WHY?**
+It is recommended to provide a DOI name expressed as URL to your dataset or publication and add it to their metadata in order to make them more findable and to track the original authors and science behind. This will provide proper credits to the authors and a confident tracking record.
+
+The DOI system offers a unique set of functionalities: 
+•	Persistence, if material is moved, rearranged, or bookmarked. 
+•	Interoperability with other data from other sources. 
+•	Extensibility by adding new features and services through management of groups of DOI names. 
+•	Single management of data for multiple output formats (platform independence). 
+•	Class management of applications and services. 
+•	Dynamic updating of metadata, applications, and services. 
+
+**HOW?**
+The DOI system is implemented through a federation of Registration Agencies (RAs) that use policies and tools developed through the IDF, which safeguards (owns or licenses on behalf of registrants) all intellectual property rights relating to the DOI system. Many millions of DOI names have been assigned to date, through a growing federation of RA world-wide.
+
+DataCite is one of these RAs that provides DOIs specifically for research data. Although other RAs also assign DOI-s to datasets, DataCite is the most used for the DOI generation for datasets. DataCite’s global community includes data centres, libraries, government agencies, research universities, etc. Membership is open to all organizations that share the data sharing mission of DataCite. The organization should have its data in repositories to become a membership and consume the DOI service at DataCite. Other way to provide a DOI to your datasets, without becoming a member of a RA, is publishing them in established generic or community specific repositories like Zenodo, Pangaea, SEANOE or others. As mentioned before, at https://www.re3data.org/ you can find a useful and comprehensive registry to find and assess the most suitable repositories for your specific needs and communities. Examples of repositories where the user can assign a DOI without being member of any RA is shown in Table 3. 
+
+Table 3. Examples of data repositories that generate DOI. 
+To be created

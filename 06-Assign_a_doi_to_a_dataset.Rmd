@@ -1,0 +1,22 @@
+# Assign a doi to a dataset
+
+Would you like to assign a DOI to your dataset? You are in the right place.
+AZTI recommends you publish your our datasets in public data repositories that will automatically assign a doi to your datasets.
+Here you have some recommendations to assign a DOI to your AZTI dataset:
+
+1.	Prepare a summary of your dataset details, including at least, but open to other and more detailed information:
+
+a.	Summary of the dataset, including standardized variable names
+b.	Geographical area
+c.	Date and frequency
+d.	Quality Control (QC) applied to the dataset
+e.	Contact
+f.	Any other relevant information related to your dataset
+
+2.	Find the most suitable repository for your specific need and communities https://www.re3data.org/ 
+3.	Connect to the repository website and follow the instructions to upload your data
+
+4.	Contact Lohitzune Solabarrieta (lsolabarrieta@azti.es) and/or Andrea del Campo (adelcampo@azti.es) if you have any questions.
+
+
+
