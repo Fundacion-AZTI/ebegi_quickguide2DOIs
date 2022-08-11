@@ -1,6 +1,5 @@
-`r if (knitr::is_html_output()) '
 # References {-}
-'`
+
 
 Roche D. G., Kruuk L. E. B., Lanfear R. & Binning S. A. Public Data Archiving in Ecology and Evolution: How Well Are We Doing? PLOS Biol. 13, e1002295 (2015).
 
