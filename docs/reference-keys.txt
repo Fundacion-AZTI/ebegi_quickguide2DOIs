@@ -1,0 +1,7 @@
+introduction
+what-is-a-doi
+why-and-how-to-assign-a-doi
+fair-principles
+assign-a-doi-to-an-oceanographic-campaign-or-field-data-survey
+assign-a-doi-to-a-dataset
+assign-a-doi-to-other-objects
