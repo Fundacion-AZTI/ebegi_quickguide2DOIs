@@ -1,3 +1,8 @@
+---
+output:
+  pdf_document: default
+  html_document: default
+---
 # FAIR principles
 
 There is a need to extract the maximum benefit from our research investments/outputs and a good data management is essential to achieve this need (e.g., [Roche et al., 2015](https://doi.org/10.1371/journal.pbio.1002295)). However, what constitutes ‘good data management’ has been largely undefined and it was generally left as a decision of the data owner. Therefore, bringing some clarity around the goals of good data management and defining simple guidelines to inform those who publish and/or preserve scientific data, is of great utility. For this purpose, [Wilkinson et al (2016)](https://www.nature.com/articles/sdata201618) described four foundational principles: Findability, Accessibility, Interoperability, and Reusability (also known as FAIR principles); that serve to guide data producers and publishers, helping to maximize the added value gained by contemporary digital publishing and, also, adhere to the expectations and requirements of the funding agencies. The FAIR principles apply not only to ‘data’ but also to the algorithms, processing tools, and workflows that led to those data. All digital research objects benefit from the application of these principles, since all components of the research process should be clearly available in the datasets’ metadata to ensure transparency, reproducibility, and reusability ([Wilkinson et al, 2016](https://www.nature.com/articles/sdata201618)).
