@@ -1,22 +1,16 @@
-# Assign a doi to a dataset
+# Assign a DOI to a dataset
 
 Would you like to assign a DOI to your dataset? You are in the right place.
-AZTI recommends you publish your our datasets in public data repositories that will automatically assign a doi to your datasets.
+AZTI recommends to publish your datasets in public data repositories that will automatically assign a DOI.
 Here you have some recommendations to assign a DOI to your AZTI dataset:
 
-1.	Prepare a summary of your dataset details, including at least, but open to other and more detailed information:
+1.	Find the most suitable repository for your specific need and communities at [https://www.re3data.org/](https://www.re3data.org/ ). [PANGAEA](https://www.pangaea.de/) and [SEANOE](https://www.seanoe.org/html/publish-your-data.htm) are the most used repositories in the field of marine sciences.
 
-a.	Summary of the dataset, including standardized variable names
-b.	Geographical area
-c.	Date and frequency
-d.	Quality Control (QC) applied to the dataset
-e.	Contact
-f.	Any other relevant information related to your dataset
+2.	Connect to the repository website and follow the instructions to upload your data and assign a DOI.
 
-2.	Find the most suitable repository for your specific need and communities https://www.re3data.org/ 
-3.	Connect to the repository website and follow the instructions to upload your data
+3.	(Optional) Once your dataset have a DOI, send it to [DOIteam@azti.es](DOIteam@azti.es) in order to publish it in the web section inside the URL [https://www.azti.es/campaigns](https://www.azti.es/campaigns/) devoted to your campaign or survey. If you have not published your campaign in this section you should follow the steps indicated in this e-book section "5 assign a DOI to an oceanographic campaign".
 
-4.	Contact Lohitzune Solabarrieta (lsolabarrieta@azti.es) and/or Andrea del Campo (adelcampo@azti.es) if you have any questions.
+Contact [DOIteam@azti.es](DOIteam@azti.es) if you have any questions.
 
 
 

@@ -1,23 +1,32 @@
-# Assign a Doi to an oceanographic campaign
+# Assign a DOI to an oceanographic campaign or field data survey
 
-Would you like to assign a DOI to your oceanographic campaign? You are in the right place. Here you have some recommendations to assign a DOI to you AZTI campaign:
+Would you like to assign a DOI to your oceanographic campaign or field data survey? You are in the right place. Here you have some recommendations to assign a DOI to you AZTI campaign:
 
-1.	Prepare a summary of your campaign details, including at least, but open to other and more detailed information:
+1.	Prepare the following information to create a DOI:
 
-a.	Summary of the campaign
-b.	Geographical area
-c.	Date and frequency
-d.	Contact
-e.	Any other relevan information related to your campaign
-
-2.	Contact FULANITO Y MENGANITO to create a specific web section inside www.azti.es/Campaigns/XXX assigned to your campaign
-
-3.	Contact Edorta Aranguena (earanguena@azti.es), Lohitzune Solabarrieta (lsolabarrieta@azti.es) and/or Andrea del Campo (adelcampo@azti.es) to assign a DOI to the website created in the previous step
-
-The DOI will be assigned through DataCite, which is one of the settled Registration Agencies (RI) authorized to assign a DOI and where AZTI is a member.
-
-4.	Contact back FULANITO Y MENGANITO to add the DOI generated in the previous step 3 to the website details.
-
-5.	Decide if you want to publish your dataset, following the steps in the ebook section “6.- Assign a doi to your dataset”. Include that doi (if generated) or the way to obtain the dataset (if exist) in the www.azti.es/Campaigns/XXX site of your campaign
+    a. Creators. The main researchers or organizations involved in producing     the resource (i.e. the oceanoglaphyc campaingn or field data survey), in      priority order.
+    b. Title. One or more names or titles by which the resource is known.
+    c. Publication year. The year when the resource was or will be made          publicly  available.
+                      
+     --                
+    It is also recommended to add:
+  
+    d. Description. Additional information about the resource that does not      fit in any of the other categories.
+    f. Geolocation. Spatial region or named place where the data was gathered    or about which the resource is focused.
 
 
+2.	Send the prepared information to AZTI DOI team [DOIteam@azti.es](DOIteam@azti.es) in order to request the creation of a DOI.
+
+3. The AZTI DOI team will create a web sub-domain inside the URL [https://www.azti.es/campaigns](https://www.azti.es/campaigns/) devoted to your campaign or survey. This URL will be the landing page of your assigned DOI, where there will be more information about your campaign or survey. An example of the content to show is the BIOMAN survey at [https://www.azti.es/campaigns/bioman/](https://www.azti.es/campaigns/bioman/). Have a look to this example and prepare the content of the landing page for your campaign!
+
+4. Send the content of the landing page of your campaign to [DOIteam@azti.es](DOIteam@azti.es).
+
+    The DOI will be assigned through DataCite, which is one of the settled        Registration Agencies (RIs) authorized to assign a DOI and where AZTI is a    member.
+
+5. The AZTI DOI team will send you by e-mail the DOI assigned to your campaign.
+
+6. Decide if you want to publish also the dataset generated in the campaign or survey following the steps in this e-book section “6 Assign a DOI to your dataset”. 
+
+7. (Optional) If you do not want to publish the dataset, but you what to mention its existence and/or the way to get it (e.g. giving a contact name), you could specify this information in the landing page devoted to your campaign or survey.Send an e-mail to [DOIteam@azti.es](DOIteam@azti.es) indicating the information of the dataset you want to include in the landing page of your campaign. 
+
+Contact [DOIteam@azti.es](DOIteam@azti.es) if you have any questions.

@@ -5,3 +5,4 @@ fair-principles
 assign-a-doi-to-an-oceanographic-campaign
 assign-a-doi-to-a-dataset
 assign-a-doi-to-other-objects
+assign-a-doi-to-an-oceanographic-campaign-or-field-data-survey

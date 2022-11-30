@@ -1,4 +1,6 @@
 # What is a DOI
 
-DOI is an acronym for ‘digital object identifier’ (https://www.doi.org/). The DOI® system was initiated by the International DOI Foundation (IDF) in 1998 (later standardised as ISO 26324) and provides an infrastructure for persistent unique identification of objects of any type, such as data. It also provides an interoperable exchange of managed information on digital networks (that is to use, or work with, existing identifier and metadata schemes). A DOI name is assigned to data (or any other object) primarily for sharing with an interested user community or managing as intellectual property. DOI names may also be expressed as URLs (URIs). 
+DOI is an acronym for ‘Digital Object Identifier'. The [DOI® system](https://www.doi.org/) was initiated by the International DOI Foundation (IDF) in 1998 (later standardised as ISO 26324) and provides an infrastructure for persistent unique identification of objects of any type, such as data. It also provides an interoperable exchange of managed information on digital networks (that is to use, or work with, existing identifier and metadata schemes). A DOI name is assigned to data (or any other object) primarily for sharing with an interested user community or managing as intellectual property. DOI names may also be expressed as URLs (URIs). 
+
+A DOI is a character string, including a prefix and a suffix separated by a forward slash (e.g. 10.17882/43082). The prefix is attributed to an entity. AZTI uses the prefix 10.57762.
 
